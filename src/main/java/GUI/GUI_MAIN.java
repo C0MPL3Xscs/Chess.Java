@@ -3741,7 +3741,7 @@ public class GUI_MAIN extends javax.swing.JFrame {
     //Open GitHub in browser
     private void jToggleButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton5ActionPerformed
         try {
-            java.awt.Desktop.getDesktop().browse(new URI("https://github.com/C0MPL3Xscs"));
+            java.awt.Desktop.getDesktop().browse(new URI("https://github.com/C0MPL3Xscs/Chess.Java"));
         } catch (Exception e) {
             e.printStackTrace();
         }
